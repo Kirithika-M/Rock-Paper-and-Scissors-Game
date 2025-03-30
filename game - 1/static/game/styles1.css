@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+body {
+    padding: 50px;
+    background-image: url(bg-game.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.style {
+    color:black;
+    font-size: 50px;
+}
+
+.btn btn-outline-light {
+    padding: 10px 20px;
+}
+
+.wrapper {
+    width: 900px;
+    height: 300px;
+    padding: 10px 20px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgba(20, 20, 20, .2);
+    border-radius: 40px;
+    backdrop-filter: blur(30px);
+}
+
+
+* {
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+}

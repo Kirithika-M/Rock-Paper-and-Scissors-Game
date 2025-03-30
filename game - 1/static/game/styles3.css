@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+.heading {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(bg-game.JPG) no-repeat;
+    background-size: cover;
+    background-position: center;
+    gap: 2.5em;
+    border: 3px solid rgba(20, 20, 20, .2);
+}
+
+.heading {
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+
+h1 {
+    color: black;
+}
+
+.hello  {
+    width: 800px;
+    background-color: transparent;
+    color: black;
+    padding: 10px 60px;
+    border-radius: 10px;
+    border: 2px solid rgba(20, 20, 20, .2);
+    backdrop-filter: blur(10px);
+    align-items: center;
+}
+
+#style_button {
+    display: flex;
+    gap: 1em;
+    margin: 30px;
+}
+
+#style_button button {
+    padding: 0.5em 1.2em;
+    border-radius: 0.5em;
+    font-size: 1em;
+}
+
+h2 {
+    height: 50px;
+    width: 10px;
+    margin: 10px;
+}
+
+.user {
+    width: 350px;
+    background-color: transparent;
+    color: black;
+    padding: 10px 60px;
+    border-radius: 10px;
+    border: 2px solid rgba(20, 20, 20, .2);
+    backdrop-filter: blur(10px);
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.message {
+    width: 350px;
+    background-color: transparent;
+    color: black;
+    padding: 10px 60px;
+    border-radius: 10px;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.logout {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+h4 {
+    text-align: center;
+    width: auto;
+    font-size: 20px;
+}
+
+
+
+
+body {
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+}
+
+.box 
+{
+    width: 400px;
+    background-color: transparent;
+    color: black;
+    padding: 10px 60px;
+    border-radius: 10px;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+
+#quote
+{
+    width: 350px;
+    background-color: transparent;
+    color: black;
+    padding: 10px 60px;
+    border-radius: 10px;
+    border: 2px solid rgba(20, 20, 20, .2);
+    backdrop-filter: blur(10px);
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#author
+{
+    width: 350px;
+    background-color: transparent;
+    color: black;
+    padding: 10px 60px;
+    border-radius: 10px;
+    border: 2px solid rgba(20, 20, 20, .2);
+    backdrop-filter: blur(10px);
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+
+
+
